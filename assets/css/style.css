@@ -1,0 +1,131 @@
+
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+/* Fix */
+body {
+    background: url("../images/dark-triangles/dark-triangles.png");
+}
+.fontRaleway {
+    font-family: 'Raleway', sans-serif;
+}
+.fontGreatVibes {
+    font-family: 'Great Vibes', cursive;
+}
+.colorBootstrapBlack {
+    background-color:  #222222 !important;
+}
+.colorWhite {
+    color: #FFFFFF;
+}
+.colorBlack {
+    color: #000000;
+}
+.btnBlack {
+    color: #FFFFFF !important;
+    background: #222222 !important;
+}
+.btnWhite {
+    color: #000000 !important;
+    background: #FFFFFF !important;
+}
+.btnBlack:hover {
+    color: #000000 !important;
+    background: #FFFFFF !important;
+}
+.btnWhite:hover {
+    color: #FFFFFF !important;
+    background: #222222 !important;
+}
+.nav-link {
+    color: #FFFFFF !important;
+    background: #222222 !important;
+}
+.dropdown-item {
+    color: #000000 !important;
+    background: #FFFFFF;
+}
+.dropdown-item:hover {
+    color: #FFFFFF !important;
+    background: #222222;
+}
+.nav-link:hover {
+    color: #222222 !important;
+    background: #FFFFFF !important; 
+}
+#GIF {
+    min-width: 100%;
+}
+#as,#s,#blg,#p,#c {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -56px;
+}
+#b,#g,#h,#rw,#w {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -56px;
+}
+.blogTextShadow {
+    text-shadow: 1px 1px #000000;
+}
+.headerBgrnd {
+    background-color: #222222;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid#FFFFFF;
+}
+.bgrndBootstrapBlack {
+    background-color: #222222
+}
+.bgrndWhite {
+    background-color: #FFFFFF;
+}
+.blackBorder {
+    border: 1px solid #000000;
+}
+.storeDropdownBorder {
+    border: none;
+}
+.storeDropdownBorder:hover {
+    border: 1px solid #FFFFFF;
+}
+.storeDropdownBorder:active {
+    border: 1px solid #FFFFFF;
+}
+.storeDropdownBorder:visited {
+    border: 1px solid #FFFFFF !important;
+}
+.storeDropdownBorder:focus {
+    border: 1px solid #FFFFFF !important;
+}
+.storeDropdownBorder:focus-within {
+    border: 1px solid #FFFFFF !important;
+}
+.whiteButtonBorder {
+    border: 1px solid #000000;
+}
+.whiteButtonBorder:hover {
+    border: 1px solid #000000;
+}
+.whiteButtonBorder:active {
+    border: 1px solid #000000;
+}
+.whiteButtonBorder:visited {
+    border: 1px solid #000000 !important;
+}
+.whiteButtonBorder:focus {
+    border: 1px solid #000000 !important;
+}
+.whiteButtonBorder:focus-within {
+    border: 1px solid #000000 !important;
+}
+#map-container-1 {
+    height: 200px;
+    width: 90%;
+}
